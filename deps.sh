@@ -74,8 +74,7 @@ EOF
   download_github third_party/brotli google/brotli
   download_github third_party/highway google/highway
   download_github third_party/sjpeg webmproject/sjpeg
-  download_github third_party/skcms \
-    "https://github.com/libpag/skcms/"
+  download_github third_party/skcms libpag/skcms/
   download_github third_party/zlib madler/zlib
   download_github third_party/libpng glennrp/libpng
   echo "Done."
