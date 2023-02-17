@@ -75,7 +75,7 @@ EOF
   download_github third_party/highway google/highway
   download_github third_party/sjpeg webmproject/sjpeg
   download_github third_party/skcms \
-    "https://skia.googlesource.com/skcms/+archive/"
+    "https://github.com/libpag/skcms/"
   download_github third_party/zlib madler/zlib
   download_github third_party/libpng glennrp/libpng
   echo "Done."
