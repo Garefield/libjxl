@@ -12,7 +12,7 @@
 	url = https://github.com/webmproject/sjpeg.git
 [submodule "third_party/skcms"]
 	path = third_party/skcms
-	url = https://github.com/libpag/skcms
+	url = https://gitee.com/mirrors_skia_googlesource/skcms
 [submodule "third_party/highway"]
 	path = third_party/highway
 	url = https://github.com/google/highway
